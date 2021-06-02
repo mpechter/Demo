@@ -1,4 +1,3 @@
-Getting used to the basics. 
+#Demo
 
-# Demo
-Testing functionality.
+**This repo is for testing the basics**
